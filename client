@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>National Construction Company - Power Plant Construction & Maintenance</title>
+    <meta name="description" content="Leading construction and maintenance company specializing in Thermal Power Plants, Solar Plants, and Oil Refinery construction with 13+ years of excellence since 2011." />
+    <meta property="og:title" content="National Construction Company - Electrical & Mechanical Contractor" />
+    <meta property="og:description" content="Expert electrical and mechanical contracting services with AI-powered solutions. 500+ projects completed, 14+ years experience." />
+    <meta property="og:type" content="website" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <!-- This is a replit script which adds a banner on the top of the page when opened in development mode outside the replit environment -->
+    <script type="text/javascript" src="https://replit.com/public/js/replit-dev-banner.js"></script>
+  </body>
+</html>
